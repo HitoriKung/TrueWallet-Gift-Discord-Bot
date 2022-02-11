@@ -1,6 +1,9 @@
 # TrueWallet-Gift-Discord-Bot
 ระบบตรวจซองเติมซองอัตโนมัติผ่านช่องทาง Discord
 <br>
+> npm i
+> npm i request
+<br>
 > สามารถเอาคีย์ได้จากในเว็บมาใส่ที่ config.php บรรทัดที่ 3<br>
 > นำโทเค็นบอทมาวางที่ config.php บรรทัดที่ 4<br>
 > แก้ไข Prefix ได้ที่ index.js บรรทัดที่ 5<br>
