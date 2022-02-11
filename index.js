@@ -19,7 +19,7 @@ client.on("message", message => {
     let args = message.content.split(' ');
     let command = args.shift().toLowerCase();
 
-    if(command == '$test'){
+    if(command == `${prefix}pay`){
         if(args[0]) {        
             request(`${config.api_server}?key=${config.license_key}&gift=${args[0]}`, function (error, response, body) {
             
