@@ -1,5 +1,5 @@
 # TrueWallet-Gift-Discord-Bot
-ระบบตรวจซองเติมซองอัตโนมัติผ่านช่องทาง Discord
+ระบบตรวจซองเติมซองอัตโนมัติผ่านช่องทาง DiscordJSv1.12
 <br>
 > npm i<br>
 > npm i request<br>
